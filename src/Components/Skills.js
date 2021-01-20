@@ -36,8 +36,8 @@ function Skills() {
                                     <div className="progress-wrap">
                                     <h3>C# .Net</h3>
                                     <div className="progress">
-                                        <div className="progress-bar color-3" role="progressbar" aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} style={{"width":"50%"}}>
-                                        <span>50%</span>
+                                        <div className="progress-bar color-3" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} style={{"width":"60%"}}>
+                                        <span>60%</span>
                                         </div>
                                     </div>
                                     </div>
@@ -87,6 +87,46 @@ function Skills() {
                                     <h3>Android Native</h3>
                                     <div className="progress">
                                         <div className="progress-bar color-7" role="progressbar" aria-valuenow={40} aria-valuemin={0} aria-valuemax={100} style={{"width":"40%"}}>
+                                        <span>40%</span>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+                                    <div className="progress-wrap">
+                                    <h3>HTML</h3>
+                                    <div className="progress">
+                                        <div className="progress-bar color-8" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{"width":"80%"}}>
+                                        <span>80%</span>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+                                    <div className="progress-wrap">
+                                    <h3>CSS</h3>
+                                    <div className="progress">
+                                        <div className="progress-bar color-9" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{"width":"80%"}}>
+                                        <span>80%</span>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+                                    <div className="progress-wrap">
+                                    <h3>Javascript</h3>
+                                    <div className="progress">
+                                        <div className="progress-bar color-10" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{"width":"80%"}}>
+                                        <span>80%</span>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+                                    <div className="progress-wrap">
+                                    <h3>Yii2</h3>
+                                    <div className="progress">
+                                        <div className="progress-bar color-11" role="progressbar" aria-valuenow={40} aria-valuemin={0} aria-valuemax={100} style={{"width":"40%"}}>
                                         <span>40%</span>
                                         </div>
                                     </div>
