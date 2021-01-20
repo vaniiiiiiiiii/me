@@ -4,7 +4,7 @@ function Home() {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
             <div className="flexslider js-fullheight">
             <ul className="slides">
-                <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+                <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                     <div className="row">
@@ -19,7 +19,7 @@ function Home() {
                     </div>
                 </div>
                 </li>
-                <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+                <li style={{backgroundImage: 'url(images/img_bg.png)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                     <div className="row">
