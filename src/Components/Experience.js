@@ -64,7 +64,7 @@ function Experience() {
                                 <i className="icon-pen2" />
                             </div>
                             <div className="timeline-label">
-                                <h2><a href="#">Associate Software Engineer</a> <span>January 2018 - March 2019</span></h2>
+                                <h2><a href="#">Associate Software Engineer at Sprobe Inc.</a> <span>January 2018 - March 2019</span></h2>
                                 <ul>
                                     <li>Responsible for programming related tasks such as coding, testing and implementation</li>
                                 </ul>
@@ -77,7 +77,24 @@ function Experience() {
                                 <i className="icon-pen2" />
                             </div>
                             <div className="timeline-label">
-                                <h2><a href="#">Programmer</a> <span>April 2016 - December 2017</span></h2>
+                                <h2><a href="#">Programmer at Sprobe Inc.</a> <span>April 2016 - December 2017</span></h2>
+                                <ul>
+                                    <li>Write programs in a variety of computer languages, such as PHP, Java and C# .Net</li>
+                                    <li>Update and expand existing programs</li>
+                                    <li>Debug programs by testing and fixing errors</li>
+                                    <li>Build and use computer-assisted software engineering (CASE) tools to automate the writing of some code</li>
+                                    <li>Use code libraries, which are collections of independent lines of code, to simplify the writing</li>
+                                </ul>
+                            </div>
+                            </div>
+                        </article>
+                        <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                            <div className="timeline-entry-inner">
+                            <div className="timeline-icon color-5">
+                                <i className="icon-pen2" />
+                            </div>
+                            <div className="timeline-label">
+                                <h2><a href="#">Programmer at PTMS Inc.</a> <span>November 2014 - March 2016</span></h2>
                                 <ul>
                                     <li>Researching and examining current systems and consulting users</li>
                                     <li>Liaising with colleagues such as systems analyst and designers</li>
@@ -107,7 +124,7 @@ function Experience() {
                                 <i className="icon-pen2" />
                             </div>
                             <div className="timeline-label">
-                                <h2><a href="#">Student Assistant </a> <span>April 2008 - April 2014</span></h2>
+                                <h2><a href="#">Student Assistant at University of Cebu</a> <span>April 2008 - April 2014</span></h2>
                                 <ul>
                                     <li>Assists the Building Maintenance Supervisor/Campus Engineer and staffs in the office</li>
                                 </ul>

@@ -24,7 +24,7 @@ function Contact() {
                             <i className="icon-map" />
                         </div>
                         <div className="colorlib-text">
-                            <p>Blk 25 Lot 27 Canduman Haven, Mandaue City, 6014</p>
+                            <p>Blk 25 Lot 27 Canduman Haven, Mandaue City, Cebu 6014</p>
                         </div>
                         </div>
                         <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
