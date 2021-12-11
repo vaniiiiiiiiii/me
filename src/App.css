@@ -8,3 +8,19 @@
   max-width: 1170px;
   margin: 0 auto;
 }
+
+.slides li:first-child {
+	background-image: url('images/img_bg.png');
+}
+
+.slides li:last-child {
+	background-image: url('images/img_bg.png');
+}
+
+section.colorlib-contact {
+	padding-bottom: 26em !important;
+}
+
+#colorlib-aside {
+	overflow: hidden;
+}
