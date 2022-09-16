@@ -14,7 +14,7 @@ function Experience() {
               <div className="timeline-centered">
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-1">
+                    <div className="timeline-icon color-6">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
@@ -28,7 +28,7 @@ function Experience() {
                 </article>
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-1">
+                    <div className="timeline-icon color-7">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
